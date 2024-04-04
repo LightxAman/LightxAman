@@ -1,5 +1,5 @@
 # 💫 About Me:
-YO !!!Guys! 🚀<br>I am a developer diving into the world of Python.<br>Enthusiastic about the limitless possibilities of AI and eager to explore its potential.<br>Constantly learning and evolving, I'm on a journey to refine my skills and embrace the wonders of technology.<br><br>Excited to see what we can achieve! 🌐💻 #PythonDev #AIEnthusiast #Gamer
+YO !!!Guys! 🚀<br>I am a developer diving into the world of Python:).<br>Enthusiastic about the limitless possibilities of AI and eager to explore its potential.<br>Constantly learning and evolving, I'm on a journey to refine my skills and embrace the wonders of technology.<br><br>Excited to see what we can achieve! 🌐💻 #PythonDev #AIEnthusiast #Gamer
 :D ^-^
 
 
