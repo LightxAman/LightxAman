@@ -1,8 +1,30 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 # 💫 About Me:
-YO !!!! Guys! 🚀<br>I am a developer diving into the world of Python:).<br>Enthusiastic about the limitless possibilities of AI and eager to explore its potential.<br>Constantly learning and evolving, I'm on a journey to refine my skills and embrace the wonders of technology.<br><br>Excited to see what we can achieve! 🌐💻 #PythonDev #AIEnthusiast #Gamer
-:D ^-^
+# Yo! 👋 I'm Aman Sharm
+
+🚀 Developer diving into the world of Python! 🐍
+
+🔍 Enthusiastic about the limitless possibilities of AI and eager to explore its potential.
+
+💡 Constantly learning and evolving, I'm on a journey to refine my skills and embrace the wonders of technology.
+
+🎮 Gamer at heart, coding enthusiast by day!
+
+## About Me
+
+- 👨‍💻 Python Developer
+- 🤖 AI Enthusiast
+- 🌐 Web Wanderer
+- 🎮 Gaming Aficionado
+
+## Projects
+
+- 🤖 [BOTS](https://github.com/LightxAman/Bots-Project)
+- 🌐 [Python 100 Days](https://github.com/LightxAman/Python100Days)
+
+Excited to see what we can achieve together! Let's code our way to the future! 💻🌟
+
 
 
 
