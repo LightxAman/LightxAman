@@ -4,7 +4,7 @@
 # Yo! 👋 I'm Aman Sharma
 (: _________________________ :)
 
-🚀 Developer diving into the world of Python! 🐍
+🚀 Developer diving into the world of Python and  a bit of game dev! 🐍
 
 🔍 Enthusiastic about the limitless possibilities of AI and eager to explore its potential.
 
